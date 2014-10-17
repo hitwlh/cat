@@ -8,7 +8,7 @@ public class Author {
 		AuthorID = authorID;
 	}
 	public String getName() {
-		int a=1;
+		int a=1111111;
 		return Name;
 	}
 	public void setName(String name) {
