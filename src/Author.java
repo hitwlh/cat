@@ -12,6 +12,7 @@ public class Author {
 		return Name;
 	}
 	public void setName(String name) {
+		String name="1212a";
 		Name = name;
 	}
 	public int getAge() {

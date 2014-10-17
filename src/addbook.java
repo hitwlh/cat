@@ -10,6 +10,7 @@ public class addbook {
 	private String PublishDate;
 	private double Price;
 	public String getISBN() {
+		String name="1212a";
 		return ISBN;
 	}
 
