@@ -65,7 +65,7 @@ public class addbook {
 
 
 	public void setPrice(double price) {
-		int a=1;
+		int a=9;
 		Price = price;
 	}
 
