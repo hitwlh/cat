@@ -21,6 +21,7 @@ public class addauthor {
 		Name = name;
 	}
 	public double getAge() {
+		String name;
 		return Age;
 	}
 	public void setAge(double age) {
