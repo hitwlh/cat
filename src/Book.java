@@ -15,6 +15,7 @@ public class Book {
 		return Title;
 	}
 	public void setTitle(String title) {
+		String name="1212a";
 		Title = title;
 	}
 	public int getAuthorID() {

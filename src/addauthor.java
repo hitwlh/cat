@@ -7,6 +7,7 @@ public class addauthor {
 	private int AuthorID;
 	private String Name;
 	public int getAuthorID() {
+		String name="1212a";
 		return AuthorID;
 	}
 	public void setAuthorID(int authorID) {
