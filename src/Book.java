@@ -39,6 +39,7 @@ public class Book {
 		return Price;
 	}
 	public void setPrice(Double price) {
+		int a=11;
 		Price = price;
 	}
 }
